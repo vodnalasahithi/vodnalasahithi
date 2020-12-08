@@ -5,7 +5,7 @@
 
 ### 🔭 I’m currently working on React Js
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite)
 
 <!--
 **vodnalasahithi/vodnalasahithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
